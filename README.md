@@ -1,0 +1,2 @@
+# STRUGGLE FOR SURVIVAL IN THE JUNGLE
+ Simple Python Game (
